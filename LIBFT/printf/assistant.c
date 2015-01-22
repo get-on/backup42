@@ -6,11 +6,10 @@
 /*   By: ssachet <ssachet@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2015/01/07 09:05:30 by ssachet           #+#    #+#             */
-/*   Updated: 2015/01/10 20:10:07 by ssachet          ###   ########.fr       */
+/*   Updated: 2015/01/22 20:05:51 by ssachet          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
 #include "ft_printf.h"
 
 t_a			*new_a(void)

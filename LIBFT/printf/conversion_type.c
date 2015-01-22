@@ -6,11 +6,10 @@
 /*   By: ssachet <ssachet@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2015/01/07 08:59:29 by ssachet           #+#    #+#             */
-/*   Updated: 2015/01/07 10:33:52 by ssachet          ###   ########.fr       */
+/*   Updated: 2015/01/22 20:05:51 by ssachet          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
 #include "ft_printf.h"
 
 int			numeric_conversion(t_a *flag)

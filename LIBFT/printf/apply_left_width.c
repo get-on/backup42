@@ -6,11 +6,10 @@
 /*   By: ssachet <ssachet@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2015/01/07 08:52:20 by ssachet           #+#    #+#             */
-/*   Updated: 2015/01/10 20:14:57 by ssachet          ###   ########.fr       */
+/*   Updated: 2015/01/22 20:05:51 by ssachet          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
 #include "ft_printf.h"
 
 void	*apply_left_width_char(void *myarg, t_a *flag, int width)

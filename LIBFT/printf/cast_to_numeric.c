@@ -6,11 +6,10 @@
 /*   By: ssachet <ssachet@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2015/01/07 09:13:19 by ssachet           #+#    #+#             */
-/*   Updated: 2015/01/07 10:33:52 by ssachet          ###   ########.fr       */
+/*   Updated: 2015/01/22 20:05:51 by ssachet          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
 #include "ft_printf.h"
 
 char	*cast_to_id(va_list argp, t_a *flag)

@@ -6,13 +6,11 @@
 /*   By: ssachet <ssachet@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2014/12/08 01:54:42 by ssachet           #+#    #+#             */
-/*   Updated: 2015/01/10 20:14:57 by ssachet          ###   ########.fr       */
+/*   Updated: 2015/01/22 20:05:51 by ssachet          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
 #include "ft_printf.h"
-#include <stdio.h>
 
 void	*apply_all(void *myarg, t_a *flag)
 {

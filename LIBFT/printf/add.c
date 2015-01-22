@@ -6,11 +6,10 @@
 /*   By: ssachet <ssachet@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2015/01/07 08:57:18 by ssachet           #+#    #+#             */
-/*   Updated: 2015/01/10 20:09:59 by ssachet          ###   ########.fr       */
+/*   Updated: 2015/01/22 20:05:50 by ssachet          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
 #include "ft_printf.h"
 
 char		*add_sign(void *myarg, t_a *flag)

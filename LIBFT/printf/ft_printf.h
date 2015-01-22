@@ -6,12 +6,13 @@
 /*   By: ssachet <ssachet@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2014/12/13 21:43:31 by ssachet           #+#    #+#             */
-/*   Updated: 2015/01/10 20:12:00 by ssachet          ###   ########.fr       */
+/*   Updated: 2015/01/22 20:03:51 by ssachet          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef FT_PRINTF_H
 # define FT_PRINTF_H
+# include "../libft.h"
 # include <unistd.h>
 # include <string.h>
 # include <stdlib.h>

@@ -6,11 +6,10 @@
 /*   By: ssachet <ssachet@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2015/01/07 08:56:57 by ssachet           #+#    #+#             */
-/*   Updated: 2015/01/10 20:10:00 by ssachet          ###   ########.fr       */
+/*   Updated: 2015/01/22 20:05:50 by ssachet          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
 #include "ft_printf.h"
 
 void	*apply_precision_hexa(void *myarg, t_a *flag, int strlen, int precision)
